@@ -51,7 +51,7 @@ int main()
 
                 for(j=0;j<m;j++)
                 {
-                    if(need[i][j]>avail[i])
+                    if(need[i][j]>avail[j])
                     {
                         flag=1;
                         break;
@@ -85,9 +85,9 @@ int main()
         for(i=0;i<n-1;i++)
         {
             printf("P%d ->",ans[i]);
-             printf("P%d ->",ans[n-1]);
-             printf("\n Deadlock will not occur \n");
+            printf("P%d ->",ans[n-1]);
         }
+        printf("\n Deadlock will not occur \n");
     }
         else
         {

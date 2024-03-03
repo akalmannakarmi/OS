@@ -5,11 +5,11 @@
 int main(){
     int queue[20],n,head,i,j,k,seek=0,max,diff,temp,queue1[20],queue2[20],temp1=0,temp2=0;
     float avg;
-    printf("Enter the max range of disk\n");
+    printf("Enter the max range of disk:");
     scanf("%d",&max);
-    printf("Enter the initial head position\n");
+    printf("Enter the initial head position:");
     scanf("%d",&head);
-    printf("Enter the size of queue request\n");
+    printf("Enter the size of queue request:");
     scanf("%d",&n);
     printf("Enter the queue of disk positions to be read\n");
     for(i=1;i<=n;i++){
