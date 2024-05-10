@@ -1,3 +1,5 @@
+// Implement FIFO page replacement
+
 #include <stdio.h>
 
 #define MAX_FRAMES 10

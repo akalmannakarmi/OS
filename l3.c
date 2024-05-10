@@ -1,3 +1,5 @@
+// Simulate SJF CPU schedualing algorithm
+
 #include<stdio.h>
 int main()
 {

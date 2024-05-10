@@ -1,3 +1,5 @@
+// Simulate FCFS CPU schedualing algorithm
+
 #include <stdio.h>
 
 int main(){

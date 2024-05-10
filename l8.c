@@ -1,4 +1,5 @@
-// WAP to implement scan disk scheduling algorithm
+// Implement scan disk scheduling algorithm
+
 #include<stdio.h>
 #include <stdlib.h>
 

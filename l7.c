@@ -1,3 +1,5 @@
+// Implement Shortest Seek time first disk scheduling
+
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>

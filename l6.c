@@ -1,6 +1,7 @@
+// Implement FCFS disk scheduling algorithm
+
 #include <stdio.h>
 #include <math.h>
-
 
 int main(){
     int n,seek_count=0,cur_track,distance,head=50;

@@ -1,3 +1,5 @@
+// Deadlock detection algorithm implementation
+
 #include<stdio.h>
 int main()
 {
